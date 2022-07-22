@@ -80,4 +80,6 @@ function renderPokemons(array) {
     }
 }
 
-renderPokemons(splicedArray)
+renderPokemons(splicedArray);
+
+// Ikki hil uslub
